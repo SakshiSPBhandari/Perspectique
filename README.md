@@ -1,96 +1,69 @@
-# 🔮 Perspectiq  
-### 🧠 Master High-Stakes Conversations with AI
+# 🧠 Perspectiq  
+## Master High-Stakes Conversations with AI
 
-Perspectiq is an advanced AI training platform that helps you rehearse the conversations that matter most — without risking reputation, deals, or confidence.
+Perspectiq is an advanced AI training platform designed to help you master critical conversations. Whether you're pitching to a skeptical CTO, negotiating with a demanding CEO, or de-escalating an angry customer — Perspectiq provides a realistic, low-risk environment to practice, fail safely, refine, and improve.
 
-Pitch to a skeptical CTO.  
-Negotiate with a hard-line CEO.  
-Calm down an angry customer.
-
-Perspectiq gives you a realistic sandbox to try, fail safely, adjust, and improve.
-
-> Where communication skills meet simulated pressure.
+Powered by **Google Gemini** and **Groq**, Perspectiq's dynamic personas don't just chat — they react, challenge you, push back, and even get frustrated, just like real people.
 
 ---
 
-## 🎯 The Idea
+## ✨ Key Features
 
-Ever wished you could practice a high-stakes meeting before the real one?
+### 🎭 Realistic AI Personas
+Practice against a diverse library of role-specific personas — CEO, CTO, VP of Sales, Angry Customer — each with unique personality traits, behaviors, and frustration levels.
 
-Perspectiq lets you roleplay with dynamic AI personas that **push back, challenge assumptions, express emotion, and escalate tension** — just like real people.
+### ⚡ Real-Time Feedback Loop
+Get instant, actionable guidance on:
+- Tone  
+- Clarity  
+- Persuasiveness  
+- Emotional control  
 
-You speak.  
-They react.  
-You learn.
+Your virtual coach corrects you **as you speak**.
 
-↓
+### 🎯 Dynamic Scenario Generation
+Train for any situation — simply describe it.  
+Example:  
+> “Ask for a raise during a budget cut”
 
-🤖 Perspectiq Persona
+Perspectiq automatically instantiates the perfect roleplay persona and resistance level.
 
-↓
+### 📊 Deep-Dive Analytics
+Post-session breakdowns help you understand:
+- What you did well  
+- Where your communication failed  
+- How to improve  
 
-📊 “Your tone sounds defensive. Try reframing...”  
+You get transcripts, scoring insights, and suggested coaching paths.
 
-Real resistance. Real feedback. Zero risk.
+### 🧠 Adaptive Difficulty
+Personas react dynamically based on:
+- your strategy  
+- how persuasive you are  
+- selected difficulty level  
 
----
-
-## 💎 Features That Matter
-
-⚔️ 🧠 ⚡  
-Realistic Personas Adaptive Difficulty Instant Coaching  
-CEO, CTO, VP, Customer Gets tougher as you improve Actionable feedback while you chat
-
-📊 🎭 🔁  
-Deep Analytics Persona Library Dynamic Scenarios  
-Post-session breakdowns Negotiators, skeptics & more “Convince a CTO during layoffs”
-
----
-
-## ⚡ Architecture
-
-✔ Persona frustration thresholds  
-✔ Memory across turns  
-✔ Live coaching loop  
-✔ Adaptive difficulty curve  
-
-Train → Fail safely → Improve → Repeat.
+The better you get, the harder the AI challenges you.
 
 ---
 
 ## 🛠 Tech Stack
 
-### 🎨 Frontend  
+### 🔹 Backend  
+- FastAPI  
+- LangChain  
+- PostgreSQL  
+- SQLAlchemy  
+
+### 🔹 Frontend  
 - React (Vite)  
 - TypeScript  
 - TailwindCSS  
 
-### ⚙️ Backend  
-- FastAPI  
-- PostgreSQL  
-- SQLAlchemy  
-- LangChain  
-
-### 🤖 AI Stack  
+### 🔹 AI / LLM Layer  
 - Google Gemini Pro  
-- Groq (Llama 3)
+- Groq (Llama 3)  
+- LangChain orchestration
 
 ---
 
-## 🚀 Getting Started
 
-### Backend
-
-```bash
-cd backend
-pip install -r requirements.txt
-uvicorn main:app --reload
-```
-
-### Frontend
-
-```bash
-cd frontend
-npm install
-npm run dev
-```
