@@ -3,7 +3,7 @@
 
 Perspectique is an advanced AI training platform designed to help you master critical conversations. Whether you're pitching to a skeptical CTO, negotiating with a demanding CEO, or de-escalating an angry customer — Perspectique provides a realistic, low-risk environment to practice, fail safely, refine, and improve.
 
-Powered by **Google Gemini** and **Groq**, Perspectique's dynamic personas don't just chat — they react, challenge you, push back, and even get frustrated, just like real people.
+Powered by  **Groq**, Perspectique's dynamic personas don't just chat — they react, challenge you, push back, and even get frustrated, just like real people.
 
 ---
 
@@ -60,10 +60,9 @@ The better you get, the harder the AI challenges you.
 - TailwindCSS  
 
 ### 🔹 AI / LLM Layer  
-- Google Gemini Pro  
 - Groq (Llama 3)  
 - LangChain orchestration
 
----
+
 
 
