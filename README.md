@@ -1,9 +1,9 @@
 # 🧠 Perspectique  
 ## Master High-Stakes Conversations with AI
 
-Perspectiq is an advanced AI training platform designed to help you master critical conversations. Whether you're pitching to a skeptical CTO, negotiating with a demanding CEO, or de-escalating an angry customer — Perspectiq provides a realistic, low-risk environment to practice, fail safely, refine, and improve.
+Perspectique is an advanced AI training platform designed to help you master critical conversations. Whether you're pitching to a skeptical CTO, negotiating with a demanding CEO, or de-escalating an angry customer — Perspectique provides a realistic, low-risk environment to practice, fail safely, refine, and improve.
 
-Powered by **Google Gemini** and **Groq**, Perspectiq's dynamic personas don't just chat — they react, challenge you, push back, and even get frustrated, just like real people.
+Powered by **Google Gemini** and **Groq**, Perspectique's dynamic personas don't just chat — they react, challenge you, push back, and even get frustrated, just like real people.
 
 ---
 
@@ -26,7 +26,7 @@ Train for any situation — simply describe it.
 Example:  
 > “Ask for a raise during a budget cut”
 
-Perspectiq automatically instantiates the perfect roleplay persona and resistance level.
+Perspectique automatically instantiates the perfect roleplay persona and resistance level.
 
 ### 📊 Deep-Dive Analytics
 Post-session breakdowns help you understand:
