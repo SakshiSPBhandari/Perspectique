@@ -1,4 +1,4 @@
-# 🧠 Perspectiq  
+# 🧠 Perspectique  
 ## Master High-Stakes Conversations with AI
 
 Perspectiq is an advanced AI training platform designed to help you master critical conversations. Whether you're pitching to a skeptical CTO, negotiating with a demanding CEO, or de-escalating an angry customer — Perspectiq provides a realistic, low-risk environment to practice, fail safely, refine, and improve.
