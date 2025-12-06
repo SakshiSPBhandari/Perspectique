@@ -23,14 +23,13 @@ You speak.
 They react.  
 You learn.
 
-  ↓
+↓
 
- 🤖 Perspectiq Persona
+🤖 Perspectiq Persona
 
-  ↓
+↓
 
-📊 “Your tone sounds defensive.
-     Try reframing...” 
+📊 “Your tone sounds defensive. Try reframing...”  
 
 Real resistance. Real feedback. Zero risk.
 
@@ -49,7 +48,6 @@ Post-session breakdowns Negotiators, skeptics & more “Convince a CTO durin
 ---
 
 ## ⚡ Architecture
-
 
 ✔ Persona frustration thresholds  
 ✔ Memory across turns  
@@ -88,6 +86,7 @@ cd backend
 pip install -r requirements.txt
 uvicorn main:app --reload
 ```
+
 ### Frontend
 
 ```bash
